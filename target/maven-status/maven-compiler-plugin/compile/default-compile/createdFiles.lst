@@ -1,0 +1,4 @@
+com\mkyong\StartApplication.class
+com\mkyong\config\AuditorAwareImpl.class
+com\mkyong\config\Auditable.class
+com\mkyong\config\JpaConfig.class
